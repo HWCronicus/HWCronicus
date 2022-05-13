@@ -1,11 +1,11 @@
 <H1><p align="center">Hey There I'm Alan George</p></h1>
 
 <h4> Thanks for stoping by</h4>
-[![wakatime](https://wakatime.com/badge/user/62fdfeab-f13e-4963-9208-35a77156ef84.svg)](https://wakatime.com/@62fdfeab-f13e-4963-9208-35a77156ef84)
+![wakatime](https://wakatime.com/badge/user/62fdfeab-f13e-4963-9208-35a77156ef84.svg)](https://wakatime.com/@62fdfeab-f13e-4963-9208-35a77156ef84)
 
-[![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&border_color=222222&hide=issues&show_icons=true&include_all_commits=true&count_private=true)
+![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&count_private=true&border_color=222222&hide=issues&show_icons=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HWCronicus/HWCronicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
