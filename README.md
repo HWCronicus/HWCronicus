@@ -2,7 +2,7 @@
 
 <h4> Thanks for stoping by</h4>
 
-![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&count_private=true&border_color=222222&hide=issues&show_icons=true&hide=contribs,prs)
+![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&count_private=true&border_color=222222&hide=issues&show_icons=true&hide=prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
