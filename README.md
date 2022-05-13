@@ -4,6 +4,8 @@
 
 ![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&count_private=true&border_color=222222&hide=issues&show_icons=true&hide=stars)
 
+![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&hide=contribs,prs)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
