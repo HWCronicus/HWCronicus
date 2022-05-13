@@ -1,4 +1,6 @@
-### Hi there 👋
+<H1>Alan George</h1>
+ <br>
+  <h4> Thanks for taking a look </h4>
 
 <!--
 **HWCronicus/HWCronicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
