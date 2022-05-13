@@ -1,6 +1,6 @@
-<H1>Alan George</h1>
- <br>
-  <h4> Thanks for taking a look </h4>
+<H1><p align="center">Alan George</p></h1>
+
+<h4> Thanks for taking a look </h4>
 
 <!--
 **HWCronicus/HWCronicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
