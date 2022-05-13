@@ -1,6 +1,8 @@
-<H1><p align="center">Alan George</p></h1>
+<H1><p align="center">Hey There I'm Alan George</p></h1>
 
-<h4> Thanks for taking a look </h4>
+<h4> Thanks for stoping by</h4>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HWCronicus/HWCronicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
