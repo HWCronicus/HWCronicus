@@ -3,7 +3,7 @@
 <h4> Thanks for stoping by</h4>
 [![wakatime](https://wakatime.com/badge/user/62fdfeab-f13e-4963-9208-35a77156ef84.svg)](https://wakatime.com/@62fdfeab-f13e-4963-9208-35a77156ef84)
 
-![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&border_color=222222&hide=issues&show_icons=true&include_all_commits=true)
+[![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&border_color=222222&hide=issues&show_icons=true&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
