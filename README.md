@@ -2,9 +2,9 @@
 
 <h4> Thanks for stoping by</h4>
 
-![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&hide=prs,issues&count_private=true&show_icons=true&border_color=222222)
+![HWCronicus's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWCronicus&hide=prs,issues&count_private=true&show_icons=true&border_color=222222)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HWCronicus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **HWCronicus/HWCronicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
